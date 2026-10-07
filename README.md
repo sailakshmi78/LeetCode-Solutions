@@ -19,8 +19,10 @@ My LeetCode problem-solving journey and DSA solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/sailakshmi78/LeetCode-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/sailakshmi78/LeetCode-Solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/sailakshmi78/LeetCode-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/sailakshmi78/LeetCode-Solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 <!---LeetCode Topics End-->
